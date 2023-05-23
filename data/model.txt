@@ -1,0 +1,19 @@
+Link to the best models for each datasets (folder Project):
+
+(GENDER CLASSIIFCATION) IMDB faces data set (subset 50,000 images) (folder gender):
+    - gender_basic_noaug.h5 (The data trained WITHOUT data augmentation on the "Basic" model)
+    - gender_basic_aug.h5 (The data trained WITH data augmentation on the "Basic" model)
+    - gender_residual_noaug.h5 (The data trained WITHOUT data augmentation on the "Residual" model)
+    - gender_residual_aug.h5 (The data trained WITH data augmentation on the "Residual" model)
+    - gender_residual_balanced_aug.h5 (The data trained WITH data augmentation on the "Residual" model
+                                        and with balanced repartition between the labels trained on ~35,000 images)
+
+
+(EMOTION CLASSIIFCATION) FER-2013 data set: 
+    - emotion_basic_noaug.h5 (The data trained WITHOUT data augmentation on the "Basic" model)
+    - emotion_basic_aug.h5 (The data trained WITH data augmentation on the "Basic" model)
+    - emotion_residual_noaug.h5 (The data trained WITHOUT data augmentation on the "Residual" model)
+    - emotion_residual_aug.h5 (The data trained WITH data augmentation on the "Residual" model)
+
+https://drive.google.com/drive/folders/0AKzK2BCmnrOVUk9PVA
+

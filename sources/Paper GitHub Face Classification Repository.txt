@@ -1,0 +1,5 @@
+$$ GITHUB REPOSITORY OF THE PAPER
+
+We used this repository to compare our results and to help us to set some hyperparameters.
+
+The link of the repository is: https://github.com/oarriaga/face_classification/tree/b861d21b0e76ca5514cdeb5b56a689b7318584f4

@@ -1,0 +1,8 @@
+
+$$ HAAR CASCADE CLASSIFIER
+
+For detecting faces we are using the Haar Cascade Classifier available on the OpenCV library.
+The classifier is trained on a set of 12,000 images of faces and non-faces.
+The classifier is then used to detect faces in the video stream.
+
+For more details check this link: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html

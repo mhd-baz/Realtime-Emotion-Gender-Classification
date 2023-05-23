@@ -1,0 +1,16 @@
+Datasets Links used for taining the different models:
+
+- Facial Expression Recognition DataSet (FER-2013) (EMOTION CLASSIIFCATION)
+https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/overview
+(You need to download only the file names "train.csv")
+
+- IMDB Data Base (GENDER CLASSIFICATION)
+https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
+(You have to download in the section IMDB the "Download images meta data" and "Download faces only")
+
+
+-----------------------------
+Test video: (presentation folder)
+
+The video was made by our own using pictures from the folder 99 of the IMDB dataset.
+The pictures of this folder wasn't used as training, validation or testing set during the building of the gender model.

@@ -1,3 +1,5 @@
+This project was made during my Master's in IIT (Chicago) during the fall of 22, for my Deep Learning class.
+
 
 $$ ATTENTION: TO USE ALL THE JUPYTIER NOTEBOOK YOU NEED TO MEET TO THE REQUIRMENTS FILE
                 (The requirements file is not really accurate because there is in it libraries that are not used in the notebooks

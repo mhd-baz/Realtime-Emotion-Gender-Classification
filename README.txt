@@ -52,3 +52,4 @@ $$ IMPORTANT:   You have to download the model linked to each classifier in orde
 
                 You also could find in the data folder a video that could be used as input for testing purpose.
                 (If you want to see the result, you could find the same video in which was applied our pipline in the presentation folder)
+
